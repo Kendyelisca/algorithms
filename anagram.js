@@ -13,4 +13,3 @@ function anagram(a, b) {
 }
 
 const result = anagram("yowi", "woyi");
-console.log(result);
